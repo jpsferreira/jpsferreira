@@ -1,11 +1,11 @@
-# jpsferreira
-
 [João Ferreira]
 
 Hi there 👋
 
 
 I'm a Researcher in Biomechanics and Invited Assistant Professor at the University of Porto. I am also Head of Data at DigestAID. In my free time, I enjoy surfing, running, hiking, climbing, and playing video and board games.
+
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 
 
 ### 💻 Tech Stack
