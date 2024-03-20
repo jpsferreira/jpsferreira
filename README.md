@@ -3,7 +3,7 @@
 Hi there 👋
 
 
-I'm a Researcher in Biomechanics and Invited Assistant Professor at the University of Porto. I am also Head of Data at DigestAID. In my free time, I enjoy surfing, running, hiking, climbing, and playing video and board games.
+I'm a Researcher in Biomechanics and Invited Assistant Professor at the University of Porto. I am also Head of Data at DigestAID. I enjoy surfing, running, hiking, climbing, and playing video and board games in my free time.
 
 
 ### 💻 Tech Stack
@@ -22,7 +22,7 @@ I'm a Researcher in Biomechanics and Invited Assistant Professor at the Universi
 
 - Google Cloud Services
 - Terraform
-- Generation algorithms for physics-based synthentic data
+- Generation algorithms for physics-based synthetic data
 
 ### 📫 How to reach me
 
@@ -33,9 +33,10 @@ I'm a Researcher in Biomechanics and Invited Assistant Professor at the Universi
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsferreira&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsferreira&show_icons=true&theme=transparent)
 
 ### 🏆 GitHub Trophies
 
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jpsferreira&theme=onedark)
+![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jpsferreira&theme=radical)
+
 
