@@ -31,12 +31,3 @@ I'm a Researcher in Biomechanics and Invited Assistant Professor at the Universi
 
 
 
-### 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsferreira&show_icons=true&theme=transparent)
-
-### 🏆 GitHub Trophies
-
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jpsferreira&theme=radical)
-
-
