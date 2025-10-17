@@ -2,10 +2,6 @@
 
 Hi there 👋
 
-
-I'm a Researcher in Biomechanics and Invited Assistant Professor at the University of Porto. I am also Head of Data at DigestAID. I enjoy surfing, running, hiking, climbing, and playing video and board games in my free time.
-
-
 ### 💻 Tech Stack
 
 - Bash
