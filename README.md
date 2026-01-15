@@ -4,25 +4,13 @@ Hi there 👋
 
 ### 💻 Tech Stack
 
-- Bash
-- Python
-- PyTorch
-- TensorFlow
-- Fortran 77, Fortran 90, Fortran 95
-- Matlab
-- Abaqus
-- Fusion 360
+- **Core & Data:** SQL, Python, PySpark, Bash, pandas, seaborn
+- **ML and AI:** PyTorch, PyTorch Lightning, fastai, scikit-learn
+- **MLOps & Cloud:** Terraform, docker, GCP, git, uv, poetry, ansible, VertexAI, AWS
 
-
-### 🌱 I'm currently learning
-
-- Google Cloud Services
-- Terraform
-- Generation algorithms for physics-based synthetic data
 
 ### 📫 How to reach me
 
-- [Email](mailto:jpsousaferreira@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jpsferreira/)
 
 
